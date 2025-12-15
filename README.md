@@ -101,7 +101,7 @@ This project directly validates the following technical achievements:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ride-sharing-platform.git
+git clone https://github.com/XiaoyunYin/ride-sharing-platform.git
 cd ride-sharing-platform
 
 # Build all services
@@ -626,8 +626,8 @@ MIT License - free to use for personal and commercial projects.
 ## 👤 Author
 
 **Xiaoyun Yin**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Xiaoyun Yin](https://www.linkedin.com/in/xiaoyun-yin)
+- GitHub: [@XiaoyunYin](https://github.com/XiaoyunYin)
+- LinkedIn: [XiaoyunYin](https://www.linkedin.com/in/xiaoyun-yin)
 
 ---
 
